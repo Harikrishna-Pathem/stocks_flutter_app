@@ -117,15 +117,18 @@ flutter_bloc
 
 ### 🏠 Watchlist Screen
 
-![Watchlist](assets/stock-1.jpeg)
-
-![Watchlist](assets/stock-2.jpeg)
+<p align="center">
+  <img src="assets/stock-1.jpeg" width="200"/>
+  <img src="assets/stock-2.jpeg" width="200"/>
+</p>
 
 ### ✏️ Edit Watchlist Screen
 
-![Edit](assets/stock-3.jpeg)
+<p align="center">
+  <img src="assets/stock-3.jpeg" width="200"/>
+  <img src="assets/stock-4.jpeg" width="200"/>
+</p>
 
-![Edit](assets/stock-4.jpeg)
 
 ---
 
